@@ -1,0 +1,48 @@
+.font-size-12{
+    font-size: 12px;
+}
+
+.font-size-50{
+    font-size: 50px;
+}
+
+.font-weight-500{
+    font-weight: 500;
+}
+.font-cherry{
+    font-family: 'Cherry Bomb One' ;
+}
+.color-white{
+    color: white;
+}
+.color-B9561F{
+    color: #B9561F;
+}
+.bg-B9561F{
+    background-color: #B9561F;
+}
+.bg-green{
+    background-color: green !important;
+}
+.cursor-pointer{
+    cursor: pointer;
+}
+.color-red{
+    color: red;
+}
+
+@media (min-width: 992px) {
+    .w-lg-50 {
+        width: 50% !important;
+    }
+    .h-lg-75 {
+        height: 75%;
+    }
+}
+@media (max-width: 300px){
+    .title-font-size{
+        font-size: 40px;
+    }
+}
+
+

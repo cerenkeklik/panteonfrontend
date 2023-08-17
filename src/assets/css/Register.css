@@ -1,0 +1,19 @@
+.bg-register {
+  background-image: url('../images/farm.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.card-bg-opacity {
+  background-color: rgba(255, 255, 255, 0.9);
+}
+
+.submit-btn:hover {
+  background-color: #b9561f;
+  color: white;
+  transform: scale(1.1);
+}
+.redirect-text:hover {
+  transform: scale(1.1);
+}
